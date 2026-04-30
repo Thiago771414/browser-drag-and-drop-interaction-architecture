@@ -132,6 +132,7 @@ dragging class → indicates active element
 [![Assista ao vídeo do Drag and Drop](https://github.com/Thiago771414/imagensProjetos/blob/main/slices/mobile/DragAndDrop.png)](https://youtu.be/idskEjzhMrk)
 
 *Click on the image above to watch the demonstration*
+
 ---
 
 ## Real Engineering Use Cases
